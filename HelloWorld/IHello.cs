@@ -10,5 +10,9 @@ namespace HelloWorld
         void DisplayHello();
 
         void DisplayHello(string test);
+
+        void TestHello();
+
+
     }
 }
