@@ -27,5 +27,9 @@ namespace HelloWorld
            Console.WriteLine("Hello world");
            Console.WriteLine("World");
        }
+
+       public void BranchHello()
+       {
+       }
     }
 }
