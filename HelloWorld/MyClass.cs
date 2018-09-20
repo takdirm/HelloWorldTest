@@ -5,10 +5,7 @@ using System.Text;
 
 namespace HelloWorld
 {
-    class Program
+    class MyClass
     {
-        static void Main(string[] args)
-        {
-        }
     }
 }
