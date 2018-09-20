@@ -20,6 +20,7 @@ namespace HelloWorld
        public void DisplayHello(string test)
        {
            Console.WriteLine("Hello");
+           Console.WriteLine("World");
        }
     }
 }
