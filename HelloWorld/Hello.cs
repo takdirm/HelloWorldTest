@@ -30,6 +30,7 @@ namespace HelloWorld
 
        public void BranchHello()
        {
+         Console.WriteLine("Branch Hello");
        }
     }
 }
