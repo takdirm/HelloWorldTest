@@ -9,6 +9,12 @@ namespace HelloWorld
     {
        public  Hello()
        {
+          
+       }
+
+       public void DisplayHello()
+       {
+           Console.WriteLine("Hello");
        }
     }
 }
