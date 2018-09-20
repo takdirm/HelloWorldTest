@@ -5,7 +5,10 @@ using System.Text;
 
 namespace HelloWorld
 {
-    interface IHello
+    public interface IHello
     {
+        void DisplayHello();
+
+        void DisplayHello(string test);
     }
 }

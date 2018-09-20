@@ -16,5 +16,10 @@ namespace HelloWorld
        {
            Console.WriteLine("Hello");
        }
+
+       public void DisplayHello(string test)
+       {
+           Console.WriteLine("Hello");
+       }
     }
 }
