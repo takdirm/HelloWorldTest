@@ -7,5 +7,8 @@ namespace HelloWorld
 {
    public class Hello : IHello
     {
+       public  Hello()
+       {
+       }
     }
 }
