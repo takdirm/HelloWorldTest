@@ -19,7 +19,7 @@ namespace HelloWorld
 
        public void DisplayHello(string test)
        {
-           Console.WriteLine("Hello");
+           Console.WriteLine("Hello world");
            Console.WriteLine("World");
        }
     }
